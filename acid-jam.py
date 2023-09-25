@@ -20,9 +20,9 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("toilet -Fgay ACIDJAM")
 print
-print "Author   : SIAM"
-print "github   : https://github.com/teamacidbruh"
-print "Facebook Group : ML SPAMMING & BLACK HACKER TEAM"
+print ("Author   : SIAM")
+print ("github   : https://github.com/teamacidbruh")
+print ("Facebook Group : TEAM ACID CYBER")
 os.system('xdg-open https://t.me/teamacid')
 print
 ip = raw_input("IP Target : ")
